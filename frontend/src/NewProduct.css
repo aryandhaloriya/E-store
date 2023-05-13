@@ -1,0 +1,105 @@
+.formm{
+    margin: 30;
+    padding: 70;
+    height: 500px;
+
+}
+
+.np{
+    width: 100%;
+    max-width: 40rem;
+    background-color: #f3f7ee;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    padding-bottom: 24px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.input{
+    margin-left: 3px;
+    padding: 4px;
+    width: 97%;
+    border: 3px solid #ccc;
+    background-color: #f5f3f3;
+    margin-bottom: 2px;
+    
+}
+.text{
+    margin-left: 5px;
+}
+
+
+.select{
+    margin-left: 3px;
+    padding: 4px;
+    width: 97%;
+    border: 3px solid #ccc;
+    background-color: #f5f3f3;
+    margin-bottom: 2px;
+}
+.np_form{
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    height: 178px;
+    width: 100%;
+    background-color: #ccc;
+    margin-top: 13px;
+    margin-bottom: 13px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.lable{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    width: 100%;
+}
+
+.logo{
+    font-size: 40px;
+}
+
+.save{
+    background-color: #1c7ed6;
+    max-width: 150px;
+    width: 100%;
+    cursor: pointer;
+    margin: 8px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    text-transform: uppercase;
+    
+}
+
+.save:hover {
+    transition:  background-color 0.5 ease;
+    background-color: #7270e6;
+    
+  }
+
+
+#img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .upload {
+    visibility: hidden;
+  }
+  
+.save :hover{
+    color: #ccc;
+}
+
+.image{
+    height: 100%;
+}

@@ -1,0 +1,74 @@
+.h2{
+    font: bold;
+    
+}
+.fulll{
+    padding: 10px;
+    
+}
+.div2{
+    margin: 4px;
+    display: flex;
+    gap: 3%;
+}
+
+.summary{
+    margin-left: 100px;
+    height: 500px;
+    width: 500px;
+}
+.h21{
+    background-color: blue ;
+    color: white;
+    padding: 1px;
+    font-size: x-large;
+
+
+}
+.qty{
+    display: flex;
+    width: 100%;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: xx-large;
+    border:2px;
+
+}
+.p2{
+    margin-left: auto;
+    width: 32px;
+    font: bold;
+   
+}
+
+.spam{
+    font-size: xx-large;
+    color: rgb(196, 57, 57);
+}
+
+.pay{
+    background-color: rgb(250, 71, 71);
+    width: 100%;
+    font-size: x-large;
+    color: white;
+    padding-right: 2px;
+    padding-left: 2px;
+    font: bold;
+}
+.cartImg{
+    justify-content: center;
+    width: 100%;
+}
+
+.imge{
+    width: 600px;
+    height: 350px;
+    padding-left: 400px;
+
+}
+.Empty{
+    font-size: x-large;
+    font: bold;
+    padding-left: 700px;
+    
+}

@@ -1,0 +1,80 @@
+.headerr {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  height: 100px;
+  padding: 0 20px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.header_logoo {
+  width: 80px;
+  margin-right: 20px;
+}
+
+.Navv {
+  display: flex;
+  align-items: center;
+}
+
+.Navv_text {
+  display: flex;
+  gap: 20px;
+  font-size: large;
+}
+
+.Navv_text a {
+  color: black;
+  text-decoration: none;
+}
+
+.Navv_text a:hover {
+  color: #db7093;
+}
+
+.Navv_logo {
+  position: relative;
+  color: slategrey;
+  cursor: pointer;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+
+.Cartt {
+  position: absolute;
+  top: -15px;
+  right: 6px;
+  background-color: #db7093;
+  color: white;
+  font-size: 13px;
+  padding: 3px 8px;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.profile_logo {
+  cursor: pointer;
+}
+
+.Profile_opt {
+  position: absolute;
+  right: 20px;
+  top: 70px;
+  background-color: white;
+  padding: 10px;
+  box-shadow: 2px 3px 2px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+}
+
+.Profile_opt a {
+  color: black;
+  text-decoration: none;
+  padding: 7px 0;
+}
+
+.Profile_opt a:hover {
+  color: #db7093;
+}

@@ -1,0 +1,82 @@
+.fullll {
+  margin: 20;
+  padding: 60;
+  height: 500px;
+}
+
+.signup {
+  width: 100%;
+  max-width: 30rem;
+  background-color: #f3f7ee;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 24px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  
+}
+
+.in{
+  padding-left: 10px;
+}
+
+.Form {
+  padding: 4px;
+  width: 100%;
+}
+
+.Input {
+  width: 94%;
+  border: none;
+  border-radius: 5px;
+  padding: 8px;
+  font-size: 16px;
+  color: #333;
+  margin: 7px;
+  background-color: #f2f2f2;
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.Input:focus {
+  outline: none;
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.buttone {
+  
+  background-color: #1c7ed6;
+  max-width: 150px;
+  width: 100%;
+  cursor: pointer;
+  margin: 8px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  color: #fff;
+  font-size: 18px;
+  text-transform: uppercase;
+  
+}
+
+.buttone:hover {
+  transition:  background-color 0.5 ease;
+  background-color: #0f5d9d;
+  
+}
+
+.FaUserCircle {
+  font-size: 104px;
+  margin-bottom: 20px;
+}
+
+.already {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 16px;
+  color: #333;
+}
